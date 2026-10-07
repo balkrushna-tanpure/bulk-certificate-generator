@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.sqlite
+*.sqlite3
+*.db
+storage/certificates/*
+!storage/certificates/.gitkeep
+.pytest_cache/
+.coverage
+demo_*.pdf
+demo_*.zip
+test_certificates.db
